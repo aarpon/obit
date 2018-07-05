@@ -4,8 +4,8 @@ The [openBIS Importer toolset](https://wiki-bsse.ethz.ch/display/oBIT) is a tigh
 
 ## Selected documentation:
 
-* [Swiss Research Data Day (2018)](https://wiki-bsse.ethz.ch/display/oBIT/openBIS+Importer+Toolset?preview=/143301256/161088589/SwissResearchDataDay2018.pdf)
-* [3rd OpenBIS user Group Meeting (2016)](https://wiki-bsse.ethz.ch/display/oBIT?preview=/143301256/144441348/oBIT.pdf)
+* (Poster, 14MB) [Swiss Research Data Day (2018)](https://wiki-bsse.ethz.ch/display/oBIT/openBIS+Importer+Toolset?preview=/143301256/161088589/SwissResearchDataDay2018.pdf)
+* (Slides, 10MB) [3rd OpenBIS user Group Meeting (2016)](https://wiki-bsse.ethz.ch/display/oBIT?preview=/143301256/144441348/oBIT.pdf)
 
 ## Current release: 1.1.0
 
