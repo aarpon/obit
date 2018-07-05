@@ -4,6 +4,8 @@ The [openBIS Importer toolset](https://wiki-bsse.ethz.ch/display/oBIT) is a tigh
 
 ## Current release: 1.1.0
 
+Please follow the links below for the detailed changelog.
+
 ### Client-side components
 
 The client-side components of oBIT are installed and configured on each acquisition instrument.
