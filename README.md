@@ -13,14 +13,29 @@ Please follow the links below for the detailed changelog.
 
 ### Client-side components
 
-The client-side components of oBIT are installed and configured on each acquisition instrument.
+The client-side components of oBIT are installed and configured on each acquisition instrument. Please use the **oBIT Installer** on Windows machines:
 
-* [Annotation Tool](https://github.com/aarpon/obit_annotation_tool/releases/latest)
+* [oBIT Installer](https://github.com/aarpon/obit_installer/releases/latest)
 
-To install, it is recommended to use the [oBIT Installer](https://github.com/aarpon/obit_installer/releases/latest).
+Notice that oBIT requires Java 8 to run. The [oBIT Installer](https://github.com/aarpon/obit_installer/releases/latest) can optionally take care of downloading it at setup.
 
 ### Server-side components (integrated into openBIS)
 
-* [Microscopy Core Technology](https://github.com/aarpon/obit_microscopy_core_technology/releases/latest)
-* [Flow Cytometry Core Technology](https://github.com/aarpon/obit_flow_core_technology/releases/latest)
-* [Shared Core Technology](https://github.com/aarpon/obit_shared_core_technology/releases/latest)
+The **Microscopy** and **Flow Cytometry Core Technologies** are officially distributed along with openBIS since version 16.05.
+
+## Development
+
+The following is the list of all repositories that comprise the openBIS Importer Toolset.
+
+### Client-side components
+
+* oBIT Installer: https://github.com/aarpon/obit_installer
+* Annotation Tool: https://github.com/aarpon/obit_annotation_tool
+* Datamover: https://wiki-bsse.ethz.ch/display/DMV/Download+Page+Datamover
+* Datamover-as-a-Windows-Service Wrapper: https://github.com/aarpon/obit_datamover_jsl
+
+### Server-side components
+
+* Microscopy Core Technology: https://github.com/aarpon/obit_microscopy_core_technology
+* Flow Cytometry Core Technology: https://github.com/aarpon/obit_flow_core_technology
+* Shared Core Technology: https://github.com/aarpon/obit_shared_core_technology
