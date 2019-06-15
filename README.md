@@ -19,6 +19,8 @@ The client-side components of oBIT are installed and configured on each acquisit
 
 Notice that oBIT requires Java 8 to run. The [oBIT Installer](https://github.com/aarpon/obit_installer/releases/latest) can optionally take care of downloading it at setup.
 
+**Note**: in the future, the new [oBIT Manager](https://github.com/aarpon/obit_manager) will replace oBIT Installer.
+
 ### Server-side components (integrated into openBIS)
 
 The **Microscopy** and **Flow Cytometry Core Technologies** are officially distributed along with openBIS since version 16.05.
